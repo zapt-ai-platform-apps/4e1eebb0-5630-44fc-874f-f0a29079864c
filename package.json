@@ -14,11 +14,11 @@
     "@neondatabase/serverless": "^0.9.5",
     "@supabase/auth-ui-shared": "^0.1.8",
     "@supabase/auth-ui-solid": "^0.3.8",
-    "solid-markdown": "^2.0.13",
-    "vite": "^5.4.7",
-    "vite-plugin-solid": "^2.10.2"
+    "solid-markdown": "^2.0.13"
   },
   "devDependencies": {
+    "vite": "^5.4.7",
+    "vite-plugin-solid": "^2.10.2",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13",
